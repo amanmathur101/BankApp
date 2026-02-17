@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Fade-in animation for soft appearance */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.animate-fadeIn {
+  animation: fadeIn 0.25s ease-out;
+}
+
+/* Slide + fade (for forms/cards entering) */
+@keyframes fadeSlide {
+  0% {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fadeSlide {
+  animation: fadeSlide 0.45s ease forwards;
+}
+
+/* Zoom animation for popups */
+@keyframes scaleIn {
+  0% {
+    transform: scale(0.85);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate-scaleIn {
+  animation: scaleIn 0.35s ease-out forwards;
+}
