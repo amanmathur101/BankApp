@@ -1,8 +1,10 @@
 # 🏦 Banking Management System
 
-A production-ready full-stack banking web application that enables secure account management, transaction processing, and JWT-based authentication.
+Bank Application is a full-stack web application that simulates real-world banking operations such as account creation, authentication, deposits, withdrawals, transfers, and transaction history tracking.
 
-Built using **Spring Boot (Java)** for backend and **React.js (Vite + Tailwind CSS)** for frontend. The system is deployed on cloud platforms with PostgreSQL integration.
+The application is built using Spring Boot (Java) for backend and React.js (Vite + Tailwind CSS) for frontend, with secure authentication implemented using JWT (JSON Web Token).
+
+The project is fully deployed on Render (Backend) and Vercel (Frontend) with PostgreSQL cloud database integration.
 
 ---
 
