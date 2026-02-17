@@ -50,8 +50,7 @@ public class SecurityConfig {
         config.setAllowCredentials(true);
 
         config.setAllowedOrigins(List.of(
-              "https://bank-app-git-main-aman-kumars-projects-8e4adb13.vercel.app",
-              "https://bank-5vc94nh8j-aman-kumars-projects-8e4adb13.vercel.app",
+              "https://*.vercel.app",
               "http://localhost:5173"
         ));
 
