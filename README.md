@@ -16,6 +16,9 @@ https://bankapp-dcft.onrender.com
 🔗 Frontend (Vercel)  
 https://bank-gemioi7o9-aman-kumars-projects-8e4adb13.vercel.app
 
+<img width="1909" height="861" alt="Screenshot 2026-02-18 103557" src="https://github.com/user-attachments/assets/f1de42a6-5a57-4356-b9a7-05b947006603" />
+
+
 ---
 
 ## ✨ Features
