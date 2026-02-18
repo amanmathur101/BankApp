@@ -11,10 +11,10 @@ The project is fully deployed on Render (Backend) and Vercel (Frontend) with Pos
 ## 🚀 Live Demo
 
 🔗 Backend (Render)  
-https://bankapp-dcft.onrender.com  
+https://bankapp-dcft.onrender.com 
 
 🔗 Frontend (Vercel)  
-https://your-frontend-url.vercel.app  
+https://bank-gemioi7o9-aman-kumars-projects-8e4adb13.vercel.app
 
 ---
 
